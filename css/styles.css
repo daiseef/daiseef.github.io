@@ -22,7 +22,7 @@
     background-color: black;
     height: 300px;
     max-width: 100%;
-    
+
 }
 .display-4{
     font-family: 'Brygada 1918', serif;
@@ -34,4 +34,9 @@
 }
 #button {
     font-family: 'Raleway', sans-serif; 
+}
+
+.footer{
+    height:150px;
+    width: 100%;
 }
