@@ -19,24 +19,31 @@
     color: white;
 }
 .jumbotron{
-    background-color: black;
+    background-image: url(/Users/daiseefuentes/Desktop/daiseef.github.io/img/burningcandle.jpg);
     height: 300px;
     max-width: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 .display-4{
     font-family: 'Brygada 1918', serif;
     padding: 20px;
+    color: #F1ECEC;
 }
 .bio{
     font-family: 'Brygada 1918', serif;
     padding-left: 20px;
+    color: #F1ECEC;
 }
 #button {
     font-family: 'Raleway', sans-serif; 
 }
 
 .footer{
+    position: fixed;
     height:150px;
     width: 100%;
+    bottom: 0;
 }
