@@ -54,3 +54,19 @@
     width: 100%;
     bottom: 0;
 }
+.contact-form{
+    padding-left: 400px;
+}
+.form-group{
+    width: 60%;
+    height: 40%;
+    background-color: #E2D2D4;
+    font-family: 'Raleway', sans-serif; 
+    padding: 10px;
+}
+.contact-heading{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: #6A6363;
+    text-align: center;
+}
