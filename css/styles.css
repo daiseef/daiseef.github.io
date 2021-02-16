@@ -3,7 +3,14 @@
     height: 175px;
     background-color: #E2D2D4;
 }
-
+.fa-heart{
+    float: right;
+    padding-right: 20px;
+}
+.fa-shopping-cart{
+    float: right;
+    padding-right: 20px;
+}
 .company-title{
     font-family: 'Brygada 1918', serif;
     color: #6A6363;
