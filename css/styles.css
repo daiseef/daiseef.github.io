@@ -31,6 +31,7 @@ body{
 a:hover{
     color: #E2D2D4;
 }
+
 .jumbotron {
     background: url(/Users/daiseefuentes/Desktop/daiseef.github.io/daiseef.github.io/burningcandle.jpg) no-repeat bottom center fixed;
     -webkit-background-size: cover;
@@ -90,4 +91,30 @@ a:hover{
     font-family: 'Brygada 1918', serif;
     color: #6A6363;
 }
-
+.shop-link{
+    font-size: 20px;
+    font-family: 'Brygada 1918', serif;
+    color: #6A6363;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+.fa-copyright{
+    color: white;
+}
+.footer-text{
+    color: white;
+}
+.social-media{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Raleway', sans-serif;
+}
+.fa-instagram{
+    padding: 5px;
+    text-decoration: none;
+}
+.fa-facebook-square{
+    padding: 5px;
+}
