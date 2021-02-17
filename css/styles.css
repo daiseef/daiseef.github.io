@@ -28,15 +28,21 @@ body{
     font-family: 'Raleway', sans-serif;
     color: white;
 }
-.jumbotron{
-    background-image: url(/Users/daiseefuentes/Desktop/daiseef.github.io/daiseef.github.io/burningcandle.jpg);
-    height: 350px;
-    max-width: 100%;
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-
+a:hover{
+    color: #E2D2D4;
 }
+.jumbotron {
+    background: url(/Users/daiseefuentes/Desktop/daiseef.github.io/daiseef.github.io/burningcandle.jpg) no-repeat bottom center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    max-width: 100%;
+    font-family: 'Brygada 1918', serif;
+    padding-left: 20px;
+    color: #F1ECEC;
+ }
+
 .display-4{
     font-family: 'Brygada 1918', serif;
     padding: 20px;
@@ -44,12 +50,19 @@ body{
 }
 .bio{
     font-family: 'Brygada 1918', serif;
-    padding-left: 20px;
+    padding-left: 10px;
     color: #F1ECEC;
 }
 #button {
     font-family: 'Raleway', sans-serif; 
     
+}
+.collection{
+    font-family: 'Brygada 1918', serif;
+    font-size: 30px;
+    color: #6A6363;
+    text-align: center;
+    text-decoration: none;
 }
 
 .footer{
