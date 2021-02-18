@@ -33,7 +33,7 @@ a:hover{
 }
 
 .jumbotron {
-    background: url(/daiseef.github.io/img/burningcandle.jpg) no-repeat bottom center fixed;
+    background: url(daiseef.github.io/img/burningcandle.jpg) no-repeat bottom center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
